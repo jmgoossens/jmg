@@ -1,1 +1,2 @@
 alert("Hello")
+altert("Bonjour")
